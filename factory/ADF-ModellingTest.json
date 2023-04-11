@@ -1,0 +1,9 @@
+{
+	"name": "ADF-ModellingTest",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e8c13dac-d9f9-41d7-af15-fadb606f66c1",
+		"tenantId": "72aa0d83-624a-4ebf-a683-1b9b45548610"
+	}
+}
